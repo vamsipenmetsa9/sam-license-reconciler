@@ -1,0 +1,12 @@
+device,user,display_name,version,cores
+LT-001,ana.demo,Northwind Office 2024,24.1,8
+LT-002,ben.demo,NW Office Professional,24.1,8
+LT-003,cara.demo,Northwind Productivity Suite,23.9,8
+LT-003,cara.demo,Northwind Office 2024,24.1,8
+LT-004,dev.demo,Northwind Office 2024,24.1,8
+SRV-DB-01,,Acme DB Enterprise,12.2,16
+SRV-DB-02,,AcmeDatabase Server,12.2,2
+LT-001,ana.demo,Globex Diagram Pro,7.0,8
+LT-005,ANA.DEMO,Diagram Pro,7.0,8
+LT-002,ben.demo,Diagram Pro,6.5,8
+LT-004,dev.demo,Initech Screen Grabber,1.0,8

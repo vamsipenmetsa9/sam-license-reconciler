@@ -1,0 +1,5 @@
+publisher,product,metric,quantity,unit_cost
+Northwind,Office Suite,per_device,3,120.00
+Northwind,Office Suite,per_device,2,120.00
+Acme,Database Server,per_core,16,450.00
+Globex,Diagram Pro,per_user,2,60.00
